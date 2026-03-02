@@ -34,8 +34,7 @@ Soy un desarrollador enfocado en crear experiencias digitales fluidas y performa
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eemilianomiranda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eemilianomiranda&layout=compact&theme=tokyonight&langs_count=6" />
+![Estadísticas de Emiliano](https://github-readme-stats.vercel.app/api?username=eemilianomiranda&show_icons=true&theme=tokyonight&count_private=true)
 </p>
 
 ---
